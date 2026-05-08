@@ -51,7 +51,7 @@ Meeting & Lecture Notes
 YouTube/Video Transcript Summaries
 
 
-Quick Content Review
+Quick Content Review:
 
 🌟 Objective
 
