@@ -1,0 +1,63 @@
+[
+  {
+    "video_title": "Why do we dream?",
+    
+    "transcript": "In the third millennium BCE, Mesopotamian kings recorded and interpreted their dreams on wax tablets. A thousand years later, Ancient Egyptians wrote a dream book listing over a hundred common dreams and their meanings. Despite years of scientific research and technological advancement, there are still no definite answers to why we dream, but several theories exist. In the early 1900s, Sigmund Freud proposed that dreams are a collection of images from daily conscious life and have symbolic meanings related to subconscious wishes. Freud theorized that everything remembered from a dream is a symbolic representation of unconscious primitive thoughts, urges, and desires. Researchers found that subjects performed better on a complex 3-D maze after dreaming about it. Stress neurotransmitters are less active during the REM stage of sleep, even during traumatic dreams. This may help people process trauma more effectively. People with mood disorders and PTSD often have difficulty sleeping, suggesting that lack of dreaming may contribute to these conditions. Scientists believe that with advancing technology, we may one day understand the true purpose of dreams.",
+    
+    "summary": "Freud theorized that dreams are symbolic representations of unconscious thoughts, urges, and desires. Experiments showed that dreaming can improve performance, such as in a 3-D maze task. During REM sleep, stress neurotransmitters are less active, which may help process traumatic experiences. Lack of dreaming may be linked to mood disorders and PTSD. Future advancements in technology may help uncover the true purpose of dreams.",
+    
+    "qa_pairs": [
+      
+      {
+        "question": "Who recorded and interpreted dreams in the third millennium BCE?",
+        "answer": "Mesopotamian kings"
+      },
+      {
+        "question": "What did Ancient Egyptians write about dreams?",
+        "answer": "a dream book listing over a hundred common dreams and their meanings"
+      },
+      {
+        "question": "Do we have definite answers for why we dream?",
+        "answer": "no definite answers"
+      },
+      {
+        "question": "Who proposed the theory about subconscious wishes in dreams?",
+        "answer": "Sigmund Freud"
+      },
+      {
+        "question": "What are dreams according to Freud?",
+        "answer": "a collection of images from daily conscious life with symbolic meanings"
+      },
+      {
+        "question": "What do dreams represent according to Freud?",
+        "answer": "unconscious primitive thoughts, urges, and desires"
+      },
+      {
+        "question": "What task improved after subjects dreamed about it?",
+        "answer": "a complex 3-D maze"
+      },
+      {
+        "question": "When are stress neurotransmitters less active?",
+        "answer": "during the REM stage of sleep"
+      },
+      {
+        "question": "What kind of experiences can dreams help process?",
+        "answer": "traumatic experiences"
+      },
+      {
+        "question": "Which conditions are linked to lack of dreaming?",
+        "answer": "mood disorders and PTSD"
+      },
+      {
+        "question": "What might future technology help us discover?",
+        "answer": "the true purpose of dreams"
+      }
+      
+    ]
+  }
+]
+
+
+
+
+
