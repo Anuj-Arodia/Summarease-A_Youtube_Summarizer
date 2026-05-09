@@ -53,7 +53,7 @@ YouTube/Video Transcript Summaries
 
 Quick Content Review:
 
-🌟 Objective
+🌟 Objective-
 
 The main objective of SummarEase is to simplify information consumption by generating accurate and readable summaries while saving users valuable time.
 
